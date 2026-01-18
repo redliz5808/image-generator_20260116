@@ -1,0 +1,28 @@
+[00:00:00.700] Server  LOG      ✓ Ready in 454ms
+[00:00:00.742] Server  WARN     ⚠ Cross origin request detected from 192.168.50.135 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.50.135:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.50.135:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1768776691428}
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:02.717] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.50.135:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.50.135:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1768776691428}
+[00:00:09.240] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.240] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.240] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.50.135:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.50.135:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1768776698293}
+[00:09:03.520] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:09:03.520] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:09:03.520] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://192.168.50.135:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://192.168.50.135:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1768777232581}
+[00:10:08.714] Server  LOG      ✓ Compiled in 6ms
+[00:10:43.704] Server  LOG      ✓ Compiled in 4ms
+[00:11:02.215] Server  LOG      ✓ Compiled in 7ms
+[00:11:59.388] Server  LOG      ✓ Compiled in 6ms
+[00:12:47.966] Server  LOG      ✓ Compiled in 7ms
+[00:12:55.235] Server  LOG      ✓ Compiled in 8ms
+[00:13:07.805] Server  LOG      ✓ Compiled in 6ms
+[00:13:10.996] Server  LOG      ✓ Compiled in 5ms
+[00:13:15.397] Server  LOG      ✓ Compiled in 5ms
+[00:13:27.274] Server  LOG      ✓ Compiled in 6ms
+[00:14:41.376] Server  LOG      ✓ Compiled in 7ms
+[00:15:07.020] Server  ERROR   C:\Users\eweav\LocalRepos\image-generator_20260116\.next\dev\server\chunks\node_modules_6960ef7c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:15:07.024] Server  ERROR   Error generating image: ApiError: Forbidden
