@@ -18,10 +18,16 @@ This project follows some of the steps found in [Vibe Coding Bootcamp by Misbah 
 ## Running the app
 
 ### Install dependencies
-```npm install```
+```
+npm install
+```
 
 ### Install the fal.ai client
-```npm install @fal-ai/client```
+```
+npm install @fal-ai/client
+```
 
 ### Build & Run
-```npm run build```
+```
+npm run build
+```
